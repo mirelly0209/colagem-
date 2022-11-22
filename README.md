@@ -16,7 +16,7 @@ h1{font-size: 50px;color: blue;}
 <h4>Data: 21/11/2022
 
 
-<p> A minha parte do trabalho foi colagem paara fazer um quadro artístico com o tema dadaísta </p>
+<p> A minha parte do trabalho foi colagem para fazer um quadro artístico com o tema dadaísta </p>
 
 
 
